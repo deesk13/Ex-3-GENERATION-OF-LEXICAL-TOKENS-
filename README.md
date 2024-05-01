@@ -1,4 +1,7 @@
 # Ex-3 GENERATION OF LEXICAL TOKENS USING C
+# NAME: DEVA DHARSHINI I
+# DATE: 21.03.2024
+# REGISTER NO: 212223240026
 # AIM
 To write a C program to implement lexical analyzer to recognize a few patterns.
 ## To write a C program to implement lexical analyzer to recognize a few patterns.
